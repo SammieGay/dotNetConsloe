@@ -1,0 +1,15 @@
+/Users/smylezstudioz/sgrepos/dotNetConsole/bin/Debug/net7.0/dotNetConsole
+/Users/smylezstudioz/sgrepos/dotNetConsole/bin/Debug/net7.0/dotNetConsole.deps.json
+/Users/smylezstudioz/sgrepos/dotNetConsole/bin/Debug/net7.0/dotNetConsole.runtimeconfig.json
+/Users/smylezstudioz/sgrepos/dotNetConsole/bin/Debug/net7.0/dotNetConsole.dll
+/Users/smylezstudioz/sgrepos/dotNetConsole/bin/Debug/net7.0/dotNetConsole.pdb
+/Users/smylezstudioz/sgrepos/dotNetConsole/obj/Debug/net7.0/dotNetConsole.csproj.AssemblyReference.cache
+/Users/smylezstudioz/sgrepos/dotNetConsole/obj/Debug/net7.0/dotNetConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smylezstudioz/sgrepos/dotNetConsole/obj/Debug/net7.0/dotNetConsole.AssemblyInfoInputs.cache
+/Users/smylezstudioz/sgrepos/dotNetConsole/obj/Debug/net7.0/dotNetConsole.AssemblyInfo.cs
+/Users/smylezstudioz/sgrepos/dotNetConsole/obj/Debug/net7.0/dotNetConsole.csproj.CoreCompileInputs.cache
+/Users/smylezstudioz/sgrepos/dotNetConsole/obj/Debug/net7.0/dotNetConsole.dll
+/Users/smylezstudioz/sgrepos/dotNetConsole/obj/Debug/net7.0/refint/dotNetConsole.dll
+/Users/smylezstudioz/sgrepos/dotNetConsole/obj/Debug/net7.0/dotNetConsole.pdb
+/Users/smylezstudioz/sgrepos/dotNetConsole/obj/Debug/net7.0/dotNetConsole.genruntimeconfig.cache
+/Users/smylezstudioz/sgrepos/dotNetConsole/obj/Debug/net7.0/ref/dotNetConsole.dll
